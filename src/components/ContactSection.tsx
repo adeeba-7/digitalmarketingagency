@@ -128,8 +128,8 @@ export function ContactSection() {
                 </div>
                 <div>
                   <h4 className="text-white mb-2 text-base md:text-lg">Location</h4>
-                  <p className="text-white/70 text-sm md:text-base">123 Marketing Street</p>
-                  <p className="text-white/70 text-sm md:text-base">New York, NY 10001</p>
+                  <p className="text-white/70 text-sm md:text-base">15203 116th PL NE</p>
+                  <p className="text-white/70 text-sm md:text-base">kirkland Washington 98034</p> 
                 </div>
               </div>
             </Card>
