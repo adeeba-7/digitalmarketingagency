@@ -50,13 +50,13 @@ export function Footer() {
                 <Linkedin className="text-white" size={20} />
               </a>
               <a
-                href="https://www.instagram.com/" target="_blank"
+                href="https://www.instagram.com/kickoffmediaofficial?igsh=MTBpenF2YWZ1Z3NueA%3D%3D&utm_source=qr " target="_blank"
                 className="w-10 h-10 rounded-lg bg-gradient-to-br from-[#0F6EEA]/10 to-[#4AA3FF]/10 border border-[#4AA3FF]/20 hover:bg-gradient-to-br hover:from-[#0F6EEA] hover:to-[#4AA3FF] hover:border-transparent flex items-center justify-center transition-all"
               >
                 <Instagram className="text-white" size={20} />
               </a>
               <a
-                href="https://www.facebook.com/" target="_blank"
+                href="https://www.facebook.com/share/1D4AEHUU1q/?mibextid=wwXIfr " target="_blank"
                 className="w-10 h-10 rounded-lg bg-gradient-to-br from-[#0F6EEA]/10 to-[#4AA3FF]/10 border border-[#4AA3FF]/20 hover:bg-gradient-to-br hover:from-[#0F6EEA] hover:to-[#4AA3FF] hover:border-transparent flex items-center justify-center transition-all"
               >
                 <Facebook className="text-white" size={20} />
